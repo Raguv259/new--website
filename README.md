@@ -1,1 +1,1 @@
-# new--website
+Are you looking for a general description for a food menu card, or do you need specific menu descriptions for dishes? Let me know the style (elegant, casual, modern, etc.) and the type of cuisine you're focusing on!
