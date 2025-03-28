@@ -1,5 +1,5 @@
 body{
-    padding:20px;
+    padding:0px;
     margin:0px;
 }
 header{
@@ -7,22 +7,23 @@ header{
     color:white;
     padding-top: 2px;
     text-align: center;
+    
 }
 ul{
     list-style-type:none;
-    margin:0;
-    padding:0px;
+    margin:0px;
+    padding-bottom:20px;
     
 }
 ul li{
     display:inline;
-    margin-right: 10px;
-    padding-right: 4px;
+    
+    padding-right: 30px;
+
 }
 ul li a{
     text-decoration: none;
     color:rgba(255, 255, 255, 0.856);
-    
 
 }
 #Section1{
